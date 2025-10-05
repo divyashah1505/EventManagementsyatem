@@ -27,13 +27,14 @@ git clone https://github.com/divyashah1505/EventManagementsyatem.git
 
 2 cd mern-event-booking
 3 cd Frontend
-npm i
-npm start
+1)npm i
+2)npm start
 
 
 4 cd backend
-npm init -y
-npm start
+1)npm init -y
+2)npm start
 
 frontend will run on http://localhost:3000
 backend on http://localhost:5000
+
